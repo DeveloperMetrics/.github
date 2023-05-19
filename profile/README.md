@@ -1,6 +1,6 @@
-This organization contains multiple implementations of DORA metrics. It is a place to discuss developer and DevOps metrics, such as DORA, SPACE, and DevEx. 
+This organization contains multiple implementations of DORA metrics and is a place to discuss developer and DevOps metrics, such as DORA, SPACE, and DevEx. 
 
-In our opinion, there is a lot of confusion in the industry about the usage of DORA, and how it fits into SPACE and DevEx. We think they are all complementary, and DORA, while not perfect, is the best we have - and we truly mean that in a positive light. 
+In our opinion, there is a lot of confusion in the industry about the usage of DORA, and how it fits into SPACE and DevEx. We think all of the solutions are all complementary. 
 
 We also recognize most organizations are still striving to reach DevOps maturity - with some pockets of maturity - especially outside of tech companies. From this perspective, we see a lot of value in using rough measurements idea of where we are with DORA metrics - assessing DevOps maturity with an order of magnitude measurement (hours/days/weeks), can provide a high-level understanding of where an organization stands. For most projects, this provides a broad overview of progress and helps identify areas for improvement - and for more focused, strategic projects or initiatives with significant DevOps practices in place, (usually easy to identify as they have scum masters, SRE's, SLA's, and/or continuous deployment practices), diving in deeper and to extract more accurate metrics may be necessary to measure success effectively.
 
